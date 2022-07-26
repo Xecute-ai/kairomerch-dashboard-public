@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.eb60a766.chunk.js",
-    "app.js.map": "/static/js/app.eb60a766.chunk.js.map",
+    "app.js": "/static/js/app.b443508c.chunk.js",
+    "app.js.map": "/static/js/app.b443508c.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.2fff5af6.chunk.js": "/static/js/2.2fff5af6.chunk.js",
-    "static/js/2.2fff5af6.chunk.js.map": "/static/js/2.2fff5af6.chunk.js.map",
+    "static/js/2.83717e32.chunk.js": "/static/js/2.83717e32.chunk.js",
+    "static/js/2.83717e32.chunk.js.map": "/static/js/2.83717e32.chunk.js.map",
     "fonts/Roboto_100Thin.ttf": "/./fonts/Roboto_100Thin.ttf",
     "fonts/Roboto_100Thin_Italic.ttf": "/./fonts/Roboto_100Thin_Italic.ttf",
     "fonts/Roboto_300Light.ttf": "/./fonts/Roboto_300Light.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.2fff5af6.chunk.js.LICENSE.txt": "/static/js/2.2fff5af6.chunk.js.LICENSE.txt",
+    "static/js/2.83717e32.chunk.js.LICENSE.txt": "/static/js/2.83717e32.chunk.js.LICENSE.txt",
     "static/media/Previous.png": "/static/media/Previous.db5e36f5.png",
     "static/media/advisor-art.png": "/static/media/advisor-art.87cc46b3.png",
     "static/media/advisor-financial.png": "/static/media/advisor-financial.7924dfe2.png",
@@ -32,6 +32,7 @@
     "static/media/arrow-down.png": "/static/media/arrow-down.772a5382.png",
     "static/media/arrow-up.png": "/static/media/arrow-up.0b0d1af9.png",
     "static/media/bell.png": "/static/media/bell.7375d122.png",
+    "static/media/btransfer.png": "/static/media/btransfer.07ef100a.png",
     "static/media/check.png": "/static/media/check.f1baee44.png",
     "static/media/checked.png": "/static/media/checked.2e3713b0.png",
     "static/media/close.png": "/static/media/close.b65df71a.png",
@@ -53,6 +54,7 @@
     "static/media/no_products.png": "/static/media/no_products.cd0c624c.png",
     "static/media/notification.png": "/static/media/notification.49caab28.png",
     "static/media/ocash.png": "/static/media/ocash.dbf0f74d.png",
+    "static/media/paypal.png": "/static/media/paypal.a97556d5.png",
     "static/media/pencil.png": "/static/media/pencil.fe4e1b7d.png",
     "static/media/placeholder.png": "/static/media/placeholder.108bb626.png",
     "static/media/profile-numbers.png": "/static/media/profile-numbers.fe4ff266.png",
@@ -77,7 +79,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.2fff5af6.chunk.js",
-    "static/js/app.eb60a766.chunk.js"
+    "static/js/2.83717e32.chunk.js",
+    "static/js/app.b443508c.chunk.js"
   ]
 }
