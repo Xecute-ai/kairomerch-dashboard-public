@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.b443508c.chunk.js",
-    "app.js.map": "/static/js/app.b443508c.chunk.js.map",
+    "app.js": "/static/js/app.41c48fd0.chunk.js",
+    "app.js.map": "/static/js/app.41c48fd0.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.83717e32.chunk.js": "/static/js/2.83717e32.chunk.js",
-    "static/js/2.83717e32.chunk.js.map": "/static/js/2.83717e32.chunk.js.map",
+    "static/js/2.a2f6346f.chunk.js": "/static/js/2.a2f6346f.chunk.js",
+    "static/js/2.a2f6346f.chunk.js.map": "/static/js/2.a2f6346f.chunk.js.map",
     "fonts/Roboto_100Thin.ttf": "/./fonts/Roboto_100Thin.ttf",
     "fonts/Roboto_100Thin_Italic.ttf": "/./fonts/Roboto_100Thin_Italic.ttf",
     "fonts/Roboto_300Light.ttf": "/./fonts/Roboto_300Light.ttf",
@@ -24,8 +24,10 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.83717e32.chunk.js.LICENSE.txt": "/static/js/2.83717e32.chunk.js.LICENSE.txt",
+    "static/js/2.a2f6346f.chunk.js.LICENSE.txt": "/static/js/2.a2f6346f.chunk.js.LICENSE.txt",
     "static/media/Previous.png": "/static/media/Previous.db5e36f5.png",
+    "static/media/Torso.png": "/static/media/Torso.8e66bceb.png",
+    "static/media/White_Tshirt.jpg": "/static/media/White_Tshirt.d53771c4.jpg",
     "static/media/advisor-art.png": "/static/media/advisor-art.87cc46b3.png",
     "static/media/advisor-financial.png": "/static/media/advisor-financial.7924dfe2.png",
     "static/media/advisor-product.png": "/static/media/advisor-product.8e7d607e.png",
@@ -56,6 +58,7 @@
     "static/media/ocash.png": "/static/media/ocash.dbf0f74d.png",
     "static/media/paypal.png": "/static/media/paypal.a97556d5.png",
     "static/media/pencil.png": "/static/media/pencil.fe4e1b7d.png",
+    "static/media/phone_case.png": "/static/media/phone_case.c0751dea.png",
     "static/media/placeholder.png": "/static/media/placeholder.108bb626.png",
     "static/media/profile-numbers.png": "/static/media/profile-numbers.fe4ff266.png",
     "static/media/profile.png": "/static/media/profile.ef941e64.png",
@@ -79,7 +82,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.83717e32.chunk.js",
-    "static/js/app.b443508c.chunk.js"
+    "static/js/2.a2f6346f.chunk.js",
+    "static/js/app.41c48fd0.chunk.js"
   ]
 }
