@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.41c48fd0.chunk.js",
-    "app.js.map": "/static/js/app.41c48fd0.chunk.js.map",
+    "app.js": "/static/js/app.4b186ad8.chunk.js",
+    "app.js.map": "/static/js/app.4b186ad8.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.a2f6346f.chunk.js": "/static/js/2.a2f6346f.chunk.js",
-    "static/js/2.a2f6346f.chunk.js.map": "/static/js/2.a2f6346f.chunk.js.map",
+    "static/js/2.85492def.chunk.js": "/static/js/2.85492def.chunk.js",
+    "static/js/2.85492def.chunk.js.map": "/static/js/2.85492def.chunk.js.map",
     "fonts/Roboto_100Thin.ttf": "/./fonts/Roboto_100Thin.ttf",
     "fonts/Roboto_100Thin_Italic.ttf": "/./fonts/Roboto_100Thin_Italic.ttf",
     "fonts/Roboto_300Light.ttf": "/./fonts/Roboto_300Light.ttf",
@@ -24,10 +24,11 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.a2f6346f.chunk.js.LICENSE.txt": "/static/js/2.a2f6346f.chunk.js.LICENSE.txt",
+    "static/js/2.85492def.chunk.js.LICENSE.txt": "/static/js/2.85492def.chunk.js.LICENSE.txt",
     "static/media/Previous.png": "/static/media/Previous.db5e36f5.png",
     "static/media/Torso.png": "/static/media/Torso.8e66bceb.png",
     "static/media/White_Tshirt.jpg": "/static/media/White_Tshirt.d53771c4.jpg",
+    "static/media/advanced.png": "/static/media/advanced.86669731.png",
     "static/media/advisor-art.png": "/static/media/advisor-art.87cc46b3.png",
     "static/media/advisor-financial.png": "/static/media/advisor-financial.7924dfe2.png",
     "static/media/advisor-product.png": "/static/media/advisor-product.8e7d607e.png",
@@ -82,7 +83,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.a2f6346f.chunk.js",
-    "static/js/app.41c48fd0.chunk.js"
+    "static/js/2.85492def.chunk.js",
+    "static/js/app.4b186ad8.chunk.js"
   ]
 }
