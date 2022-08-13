@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/static/js/app.0bff910f.chunk.js",
-    "app.js.map": "/static/js/app.0bff910f.chunk.js.map",
+    "app.js": "/static/js/app.8529b51a.chunk.js",
+    "app.js.map": "/static/js/app.8529b51a.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
     "static/js/2.e605f1dd.chunk.js": "/static/js/2.e605f1dd.chunk.js",
@@ -29,9 +29,9 @@
     "static/media/Torso.png": "/static/media/Torso.8e66bceb.png",
     "static/media/White_Tshirt.jpg": "/static/media/White_Tshirt.d53771c4.jpg",
     "static/media/advanced.png": "/static/media/advanced.86669731.png",
-    "static/media/advisor-art.png": "/static/media/advisor-art.87cc46b3.png",
-    "static/media/advisor-financial.png": "/static/media/advisor-financial.7924dfe2.png",
-    "static/media/advisor-product.png": "/static/media/advisor-product.8e7d607e.png",
+    "static/media/advisor-art.svg": "/static/media/advisor-art.027145ac.svg",
+    "static/media/advisor-financial.svg": "/static/media/advisor-financial.f1261d88.svg",
+    "static/media/advisor-product.svg": "/static/media/advisor-product.43861278.svg",
     "static/media/arrow-down.png": "/static/media/arrow-down.772a5382.png",
     "static/media/arrow-up.png": "/static/media/arrow-up.0b0d1af9.png",
     "static/media/bell.png": "/static/media/bell.7375d122.png",
@@ -44,6 +44,7 @@
     "static/media/ecash.png": "/static/media/ecash.3fff089d.png",
     "static/media/eye-slash.png": "/static/media/eye-slash.c79228fe.png",
     "static/media/eye.png": "/static/media/eye.ea48b6ef.png",
+    "static/media/howto.svg": "/static/media/howto.25f8bdd3.svg",
     "static/media/icon.png": "/static/media/icon.f2a94083.png",
     "static/media/loading.gif": "/static/media/loading.7f686c03.gif",
     "static/media/login_wp.png": "/static/media/login_wp.de163c33.png",
@@ -64,14 +65,13 @@
     "static/media/placeholder.png": "/static/media/placeholder.108bb626.png",
     "static/media/profile-numbers.png": "/static/media/profile-numbers.fe4ff266.png",
     "static/media/profile.png": "/static/media/profile.ef941e64.png",
-    "static/media/setup.png": "/static/media/setup.334b1189.png",
     "static/media/shop.png": "/static/media/shop.6516f2cc.png",
     "static/media/sign_wp.png": "/static/media/sign_wp.a6ee1f20.png",
     "static/media/sms-verified.png": "/static/media/sms-verified.f76f40bb.png",
     "static/media/sms.png": "/static/media/sms.5e864b0f.png",
-    "static/media/status-25.png": "/static/media/status-25.c3e41bb2.png",
-    "static/media/status-50.png": "/static/media/status-50.64a2e9ea.png",
-    "static/media/status-75.png": "/static/media/status-75.19f2807e.png",
+    "static/media/status-25.svg": "/static/media/status-25.78fef609.svg",
+    "static/media/status-50.svg": "/static/media/status-50.aa62b96f.svg",
+    "static/media/status-75.svg": "/static/media/status-75.6ce4d8f3.svg",
     "static/media/tick.png": "/static/media/tick.3a2306c7.png",
     "static/media/trends.png": "/static/media/trends.806b42d9.png",
     "static/media/upload.png": "/static/media/upload.facc9bc9.png",
@@ -85,6 +85,6 @@
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
     "static/js/2.e605f1dd.chunk.js",
-    "static/js/app.0bff910f.chunk.js"
+    "static/js/app.8529b51a.chunk.js"
   ]
 }
