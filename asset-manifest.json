@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.8529b51a.chunk.js",
-    "app.js.map": "/static/js/app.8529b51a.chunk.js.map",
+    "app.js": "/static/js/app.05edaf0b.chunk.js",
+    "app.js.map": "/static/js/app.05edaf0b.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.e605f1dd.chunk.js": "/static/js/2.e605f1dd.chunk.js",
-    "static/js/2.e605f1dd.chunk.js.map": "/static/js/2.e605f1dd.chunk.js.map",
+    "static/js/2.eb15784b.chunk.js": "/static/js/2.eb15784b.chunk.js",
+    "static/js/2.eb15784b.chunk.js.map": "/static/js/2.eb15784b.chunk.js.map",
     "fonts/Roboto_100Thin.ttf": "/./fonts/Roboto_100Thin.ttf",
     "fonts/Roboto_100Thin_Italic.ttf": "/./fonts/Roboto_100Thin_Italic.ttf",
     "fonts/Roboto_300Light.ttf": "/./fonts/Roboto_300Light.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.e605f1dd.chunk.js.LICENSE.txt": "/static/js/2.e605f1dd.chunk.js.LICENSE.txt",
+    "static/js/2.eb15784b.chunk.js.LICENSE.txt": "/static/js/2.eb15784b.chunk.js.LICENSE.txt",
     "static/media/Previous.png": "/static/media/Previous.db5e36f5.png",
     "static/media/Torso.png": "/static/media/Torso.8e66bceb.png",
     "static/media/White_Tshirt.jpg": "/static/media/White_Tshirt.d53771c4.jpg",
@@ -47,7 +47,7 @@
     "static/media/howto.svg": "/static/media/howto.25f8bdd3.svg",
     "static/media/icon.png": "/static/media/icon.f2a94083.png",
     "static/media/loading.gif": "/static/media/loading.7f686c03.gif",
-    "static/media/login_wp.png": "/static/media/login_wp.de163c33.png",
+    "static/media/login_wp.svg": "/static/media/login_wp.7c59e864.svg",
     "static/media/logo.svg": "/static/media/logo.52707e25.svg",
     "static/media/logo.png": "/static/media/logo.6fd58e1a.png",
     "static/media/magnify.png": "/static/media/magnify.b819a69e.png",
@@ -66,7 +66,7 @@
     "static/media/profile-numbers.png": "/static/media/profile-numbers.fe4ff266.png",
     "static/media/profile.png": "/static/media/profile.ef941e64.png",
     "static/media/shop.png": "/static/media/shop.6516f2cc.png",
-    "static/media/sign_wp.png": "/static/media/sign_wp.a6ee1f20.png",
+    "static/media/sign_wp.svg": "/static/media/sign_wp.8b2aaa48.svg",
     "static/media/sms-verified.png": "/static/media/sms-verified.f76f40bb.png",
     "static/media/sms.png": "/static/media/sms.5e864b0f.png",
     "static/media/status-25.svg": "/static/media/status-25.78fef609.svg",
@@ -84,7 +84,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.e605f1dd.chunk.js",
-    "static/js/app.8529b51a.chunk.js"
+    "static/js/2.eb15784b.chunk.js",
+    "static/js/app.05edaf0b.chunk.js"
   ]
 }
